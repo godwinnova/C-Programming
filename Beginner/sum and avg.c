@@ -3,7 +3,7 @@
 int main(void) 
 {
 	int i,n,array[50],sum=0,avg;
-	printf("enter the size of the array");
+	printf("enter the size of a array");
 	scanf("%d",&n);
 	printf("enter the array elements");
 	for(i=0;i<n;i++)
